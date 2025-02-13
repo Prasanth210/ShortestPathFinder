@@ -192,5 +192,6 @@ public class Shortest_Path_Finder extends Application {
 
     public static void main(String[] args) {
         launch(args);
+
     }
 }
