@@ -29,10 +29,10 @@
 - 🟩 Set Start Node (Green cell)  
 - 🟦 Set End Node (Blue cell)  
 - ⬛ Random Wall Generation**  
-- 🟧 Shortest Path Display using *Breadth-First Search (BFS)*  
+- 🟧 Shortest Path Display using *Dijkstra Algorithm*  
 - 🎛️ Fully interactive grid (click to add/remove walls)  
 - 📱 Responsive fullscreen grid  
-- 🌐 Frontend hosted on Firebase Hosting
+  
 
 ---
 🖥️ Tech Stack
